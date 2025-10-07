@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MultiThreadingLab</string>
+
+    <!-- Lab 1 -->
+    <string name="start">Start</string>
+    <string name="returned_by_bg_thread">Returned by background thread:\n\n</string>
+    <string name="done_background_thread_has_been_stopped">Done\nBackground thread has been stopped</string>
+    <string name="working">Working...</string>
+
+    <!-- Lab 2 -->
+    <string name="bg_work_is_over">Background work is over!</string>
+    <string name="execute">Execute</string>
+    <string name="enter_some_data_here">Enter some data here</string>
+
+    <!-- Lab 3 -->
+    <string name="quick_job">Quick Job</string>
+    <string name="slow_job">Slow Job</string>
+    <string name="please_wait">Some SLOW job is being done. Please wait...</string>
+</resources>
